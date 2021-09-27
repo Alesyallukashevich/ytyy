@@ -1,0 +1,126 @@
+.ser {
+    margin: 0;
+	font-family: 'Roboto', sans-serif;
+	
+	font-size: 29px;
+	color:#ffffff ;
+   font-family: 'Bonheur Royale', cursive;
+   text-align: center;
+    
+    background-image: url(oi.jpg);
+    
+}
+body {
+background-image: url(%D1%88.jpg);
+
+    background-position: center center;
+    background-repeat: no-repeat; 
+    background-attachment: fixed;
+    background-size: cover;  
+}
+.ttt {
+    padding-top: 15px;
+    font-size: 25px;
+	color:#392131 ;
+    font-family: 'Roboto', sans-serif;
+   text-align: center;
+}
+
+.ttt_t {
+    padding-top: 15px;
+    font-size: 35px;
+	color:#ffffff ;
+    font-family: 'Roboto', sans-serif;
+   text-align: center;
+      font-family: 'Bonheur Royale', cursive;
+    background-image: url(oi.jpg);
+}
+.my__link_big,.my__link {
+    color:#000000;
+    font-size:14.4px;
+}
+ 
+.footer_main {
+    margin-top:10px;
+    background-color:#342d2d;
+	background:url("bg.jpg");
+	font-family: 'Scada', sans-serif;	
+}
+ 
+.footer {
+    width:1000px;
+    margin:0 auto;
+}
+ 
+.clear_footer,.b-footer__social,.bem_sitemap {
+    margin-top:12px;
+    margin-left:50px;
+    padding-left:65px;
+    float:left;	
+}
+ 
+.logo_align {
+	float:right;
+}
+ 
+.size_block {
+    width: 150px;
+}
+ 
+.description {
+    width:295px;
+}
+ 
+.tet_header,.footer-title,.b-networks__header {
+    text-shadow: 0 1px 3px rgba(49, 54, 49, 0.74);
+	color: #605757;
+	border-color: rgba(0,91,173,.3);
+    font-size:17px;
+    width:100%;
+	letter-spacing: 1px;
+}
+ 
+.btext {
+    margin-top:3px;
+    font-size:14.6px;
+    color:#1d1c1c;
+	list-style-type: none;
+}
+ 
+.clear_footer {
+    height:23px;
+}
+ 
+.b-sitemap__links {
+    float:left;
+}
+ 
+.glow_undecorate {
+	color: #ffffff;
+	text-shadow: 2px 2px 10px #5ab3f7, -4px 2px 14px #2784d3;
+}
+ 
+.b-link_block {
+    margin-top:12px;
+    display:block;
+}
+ 
+.b-sitemap__links_right {
+    float:right;
+    margin-right:-10px;
+    letter-spacing: 1px;
+}
+ 
+.b-footer-logo__copyright {
+    clear:right;
+	text-shadow: 0 0 20px #ff6632, 0 0 30px #ff6632;
+	color: #ffb762 !important;
+	padding-top:8px;
+}
+ 
+.b-footer-logo__copyright {
+    font-size:21px;
+    color:#f5f5f5;
+    text-align:right;
+}
+
